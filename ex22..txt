@@ -1,0 +1,38 @@
+print = displays string
+# = creates comments
++ = addition 
+- = subtraction
+/ = division 
+* = multiplication 
+% = modulus 
+< greater than 
+> less than 
+<= less than or equal to 
+>= greater than or equal to 
+= sets a variable 
+== compares two objects and tells if it's equal or not
+, = when added to a print a newline will not be printed 
+% (formatter) = string formatter
+%r = debugging
+%s = displaying 
++ (concatenation) = you can output two strings in print using + 
+\ (escape sequence) = escape sequences start with a backslash 
+\n = newlne
+''' or """ = displays whatever you type
+\t = tabs the line
+\\ = outputs the backslash 
+raw_input() = you can get input from users 
+	You can put a prompt inside the parenthesis 
+int(raw_input()) = turns input into integer
+float(raw_input()) = turns input into float
+from library import variable = import a variable from a module
+argv = allows command line arguments
+open(filename, mode) = opens filename and then sets the permission 
+	Ex. target = open('hello.txt', 'w') 
+.close() = closes the file 
+.read() = reads the file but only when you open it 
+.write() = truncates and then writes text in the file
+.truncate() = deletes everything in the file 
+def filename(arguments): = functions functions functions 
+.seek() = sets the position of the file to the offset
+.readline() = reads one line of the text
