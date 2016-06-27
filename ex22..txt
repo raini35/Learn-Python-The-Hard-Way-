@@ -36,3 +36,5 @@ open(filename, mode) = opens filename and then sets the permission
 def filename(arguments): = functions functions functions 
 .seek() = sets the position of the file to the offset
 .readline() = reads one line of the text
+from tkinter import * 
+root = Tk()
